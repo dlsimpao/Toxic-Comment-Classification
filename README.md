@@ -1,6 +1,6 @@
 # Toxic-Comment-Classification
 
-### FP - Testing Performance
+### FP - Test data Performance
 - Testing our models on the test.csv (cleaned)
 
 ### FP - Vectorizing and Evaluation
